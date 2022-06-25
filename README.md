@@ -2,7 +2,7 @@
 
 1st Prototype
 
-Please, don't touch to this code, it isn't safe and i made a deposit this small part only to test several eduactional features.
+Please, don't touch this code, it isn't safe and i only made a deposit this small part to test several eduactional features.
 
 
 Respectfully,
